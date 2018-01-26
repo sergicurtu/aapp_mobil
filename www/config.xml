@@ -26,8 +26,7 @@
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	<feature name="http://api.phonegap.com/1.0/notification"/>
 
-   	<!-- Customize your app and platform with the preference element. -->
-   	<preference name='phonegap-version' value='cli-5.2.0' />
+    <!-- Customize your app and platform with the preference element. -->
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
