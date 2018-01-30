@@ -3,8 +3,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.SERGICURTU2018"
-        versionCode = "02" 
-        version     = "0.0.02" >
+        versionCode = "03" 
+        version     = "0.0.03" >
 	
 	<!-- versionCode is optional and Android only -->
 
