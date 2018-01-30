@@ -20,7 +20,7 @@ window.addEventListener('load', function() {
 	    
     });
      
-    /*Declare modal*/
+    /*Declare modal - ventana flotante*/
     $JSView.declareModal({
         modalA: {
             url: '/modalA',
